@@ -1,9 +1,8 @@
 # NodeJS Basic Api
 
-Repository with a basic api created using NodeJS, just for study purpose.
+Repository with a foundational Node.js API developed solely for educational purposes.
 
-This api can create, update, list, delete and create tasks based on a file.
-There's a local database using a json file, where the tasks can be save to.
+This API use streams and offers functionalities to create, update, list, and delete tasks, all centered around a file-based system. It employs a local JSON database to store tasks persistently.
 
 ## Install
 
